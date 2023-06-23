@@ -3,7 +3,19 @@ This project filters movies based on content based filtering. Content based filt
 
 
 Here is a glimpse :
+
+
+
+
+
+
+Type in search bar for recommendation :
+
+
+
+
 ![image](https://github.com/KritiDwivedi/Movie-Recommend-System/assets/99080306/aae02d06-7288-4201-bd39-53762db96ac2)
+
 
 
 
